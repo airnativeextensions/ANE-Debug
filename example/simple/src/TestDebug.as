@@ -28,8 +28,6 @@ package
 	
 	/**	
 	 * Sample application for using the Debug Native Extension
-	 * 
-	 * @author	Michael Archbold
 	 */
 	public class TestDebug extends Sprite
 	{
