@@ -1,4 +1,3 @@
-built by [distriqt //](https://airnativeextensions.com) 
 
 ![](images/hero.png)
 
@@ -37,7 +36,6 @@ Debug.service.forceCrash();
 ```
 
 
+
+
 ![](images/promo.png)
-
-
-

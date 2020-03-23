@@ -48,6 +48,7 @@
 	</android>
 	
 	<extensions>
+		<extensionID>com.distriqt.Core</extensionID>
 		<extensionID>com.distriqt.Debug</extensionID>
 	</extensions>
 	

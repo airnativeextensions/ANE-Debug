@@ -106,6 +106,7 @@ package
 			//	
 			
 			Debug.service.log( "click", "distriqtTest" );
+			Debug.service.forceCrash();
 		}
 		
 		
