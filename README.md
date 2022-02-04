@@ -28,7 +28,7 @@ continually improving and updating the extensions for OS updates and feature req
 
 ## Documentation
 
-The [Wiki](https://github.com/distriqt/ANE-Debug/wiki) forms the best source of detailed documentation for the extension along with the [asdocs](https://distriqt.github.io/ANE-Debug/asdocs). 
+The [Wiki](https://docs.airnativeextensions.com/docs/debug) forms the best source of detailed documentation for the extension along with the [asdocs](https://docs.airnativeextensions.com/asdocs/debug). 
 
 Quick Example: 
 
