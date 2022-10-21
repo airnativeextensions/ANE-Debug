@@ -2,4 +2,4 @@
 
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
-| com.distriqt.Debug | 3.0.30 |  |  |
+| com.distriqt.Debug | 3.1.0 |  |  |
